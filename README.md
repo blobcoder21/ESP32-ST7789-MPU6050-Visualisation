@@ -1,1 +1,1 @@
-#ESP32 ST7789 visualisation of MPU6050
+# ESP32 ST7789 visualisation of MPU6050
